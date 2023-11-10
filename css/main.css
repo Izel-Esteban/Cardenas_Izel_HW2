@@ -133,8 +133,8 @@ article, #instructions {
     background-color: rgba(0,0,0, 0.85);
     background-image: url('../images/Hughie-Campbell-S3.webp');
     background-repeat: no-repeat;
-    background-size: 55vh;
-    background-position: 40px bottom;
+    background-size: 100vh;
+    background-position: 40px;
     display: none;
     
 
